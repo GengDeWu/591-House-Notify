@@ -1,4 +1,4 @@
-# 591-House-Notify
+# 591房屋 LINE Notify 推播
 
 ## 此專案為591買房推播機器人所使用到的 Apps Script，從無到有建立的流程寫在下方Medium中，一起來打造屬於自己的買房機器人吧！
 
