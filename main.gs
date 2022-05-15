@@ -13,7 +13,7 @@
 const list_sheet_name = "list";
 const line_notify_token = "Line Notify權杖(必填)";
 const search_city = "台北市(必填)";
-const search_query = "F12查看Network 中 Request url query string";
+const search_query = "F12 選擇 Network, 複製 591 API Request url query string(必填)";
 
 function main() {
   const house_result = get_house_data();
